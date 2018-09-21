@@ -1,4 +1,4 @@
-import { Element as PolymerElement } from '@polymer/polymer/polymer-element';
+import { PolymerElement } from '@polymer/polymer/polymer-element';
 
 import * as view from './app.template.html';
 
